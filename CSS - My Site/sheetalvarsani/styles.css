@@ -1,0 +1,191 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+a {
+  color: #f9d56e;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #F7FBE1;
+}
+
+h1 {
+  color: #f9d56e;
+  font-family: 'Sacramento', cursive;
+  font-weight: lighter;
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #14b1ab;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+h3 {
+  color: #E8505B;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  color: grey;
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+p {
+  color: black;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #14b1ab;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #f3ecc2;
+  padding-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: #e8505b;
+  position: relative;
+  padding: 80px 0 10px 0;
+}
+
+.attributes {
+  font-size: 0.75rem;
+  padding-top: 75px;
+  padding-bottom: 20px;
+}
+
+.attributes-link {
+  color: black;
+  font-family: 'Merriweather', serif;
+  font-size: 0.75rem;
+  font-weight: normal;
+  margin: 0;
+}
+
+.btn {
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  height: 0px;
+  line-height: 0px;
+  color: #F3ECC2;
+  font-family: serif;
+  width: 118px;
+  font-size: 25px;
+  font-weight: 100;
+  padding: 40px;
+  background-color: #14B1AB;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #f9d56e;
+  border: solid #FFFFFF 0px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  text-decoration: none;
+}
+
+.camera-graphic {
+  width: 17%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cloud-1 {
+  position: absolute;
+  top: 10%;
+  right: 20%;
+}
+
+.cloud-2 {
+  position: absolute;
+  top: 40%;
+  left: 20%;
+}
+
+.contact-me {
+  margin-top: 100px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px
+}
+
+.intro-text {
+  width: 30%;
+  margin: 0 auto 100px auto;
+}
+
+.macrame-graphic {
+  width: 17%;
+  float: right;
+  margin-left: 30px;
+}
+
+.mountain {
+  margin-bottom: 0;
+}
+
+.photo {
+  text-decoration: underline;
+}
+
+.profile-photo {
+  margin: 100px auto 30px auto;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.skill-row-1 {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill-row-2 {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: right;
+}
+
+.skill-row-3 {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.tea-graphic {
+  width: 17%;
+  float: left;
+  margin-right: 30px;
